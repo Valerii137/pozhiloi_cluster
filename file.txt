@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Valerii edited text
-=======
-Vlad
->>>>>>> origin/master
